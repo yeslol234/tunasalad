@@ -1,10 +1,10 @@
 # tunasalad
 heh.
 -------------------------------------------
-I'll make you laugh
-Step 1: press ctrl + f
-Step 2: press 0 on your keyboard
-
+I'll make you laugh<br/>
+Step 1: press ctrl + f<br/>
+Step 2: press 0 on your keyboard<br/>
+<br/>
 
 
 111000000000000011111000111111111111100011111110000011100000
